@@ -1,8 +1,5 @@
-
-# this is flask for
+#this is a new file
 from flask import Flask, render_template
-
-
 app = Flask(__name__)
 
 

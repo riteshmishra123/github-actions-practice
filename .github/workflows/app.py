@@ -11,3 +11,5 @@ def hello_world():
 @app.route('/health')
 def health():
     return 'Server is up and running'
+git rm .github/workflows/app.py
+
